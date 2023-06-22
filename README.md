@@ -10,14 +10,19 @@ You work as a data analyst at IFP, a nationally recognised news agency, which is
 We need to focus on for this assignment are as follows:
   1. Match Statistics-
       >> Toss outcome v/s Match Outcome (for each Ground/Venue)
+     
       >> Biggest Wins (by runs and by wicket)
+
       >> Highest totals (across all the seasons)
   
-  2. Player Statistics-
+  3. Player Statistics-
       >> Orange Cap Contenders (The batsmen who have scored the maximum number of runs in a particular season)
+
       >> Purple Cap Contenders (The bowlers who taken the maximum number of wickets in a particular season)
+
       >> Batsmen who have hit the most number of fours and sixes (per season and overall)
 
-  3. Team Statistics-
+  5. Team Statistics-
       >> Season-wise team performance (wins v/s losses)
+
       >> Win percentage (home v/s away)
